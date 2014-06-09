@@ -1,0 +1,7 @@
+CONTROLADOR=2
+BASE_DATOS=SG_COMANDERSQL
+
+#controlador_mysql = 1
+#controlador_sql = 0
+#controlador_access = 2
+

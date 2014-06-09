@@ -1,0 +1,34 @@
+#controlador_mysql = 1
+#controlador_sql = 0
+#controlador_access = 2
+#controlador_oracle = 3
+
+CONTROLADOR=1
+
+
+##SQL
+SERVSQL=localhost
+INSTANCIA=
+PUERTO=
+BASE_DATO_SQL=SG_COMANDERSQL
+INTEGRADA=true
+USUARIOSQL=
+CONTRASENASQL=
+
+##MYSQL
+SERVMYSQL=free-mysql.BizHostNet.com
+PUERTOM=3306
+BASE_DATO_MYSQL=1322958745
+USUARIO_MYSQL=1322958745
+CONTRASENA_MYSQL=777jonathan
+
+##ACCESS
+##Direccion completa para especificar o nombre simple en caso de la raiz
+ARCHIVO=SG_COMANDERSQL.mdb
+
+##ORACLE
+SERVORACLE=localhost
+PUERTO_O=1521
+SID_ORACLE=BASEORACLE
+USUARIO_ORACLE=JONATHAN
+CONTRASENA_ORACLE=123456

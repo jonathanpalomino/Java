@@ -1,0 +1,2 @@
+figurasgraficasfuncionseno.Cierre
+figurasgraficasfuncionseno.FuncionSeno_2
