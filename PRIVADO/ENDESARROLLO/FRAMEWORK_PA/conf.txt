@@ -1,9 +1,0 @@
-#Mon Jan 28 01:04:31 COT 2013
-extenciones=.mp3,.wav,.ogg,.flac,.au
-volumen=17
-modo_oculto=false
-modo_presentacion=false
-mute=false
-ultima_direccion=F\:\\MUSICA
-ultima_lista=D\:\\Desktop\\lista.m3u
-

@@ -1,7 +1,0 @@
-#Mon May 02 00:32:15 COT 2011
-volumen=10
-modo_oculto=false
-modo_presentacion=false
-mute=false
-ultima_direccion=E\:\\MUSICAS\\SALSA CUBANA
-ultima_lista=C\:\\Users\\JONATHAN\\Desktop\\archivo.rep

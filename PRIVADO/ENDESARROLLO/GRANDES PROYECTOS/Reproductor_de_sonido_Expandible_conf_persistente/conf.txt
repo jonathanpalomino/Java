@@ -1,8 +1,0 @@
-#Mon Jun 25 23:00:21 COT 2012
-extenciones=.mp3,.wav,.ogg,.flac,.au
-volumen=12
-modo_oculto=false
-modo_presentacion=false
-mute=false
-ultima_direccion=G\:\\MUSICA\\GONDWANA
-ultima_lista=C\:\\Users\\JONATHAN\\Desktop\\Desktop.m3u

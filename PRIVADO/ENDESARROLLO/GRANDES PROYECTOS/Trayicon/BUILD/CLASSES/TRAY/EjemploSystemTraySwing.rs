@@ -1,3 +1,0 @@
-tray.EjemploSystemTraySwing
-tray.EjemploSystemTraySwing$1
-tray.EjemploSystemTraySwing$2
