@@ -160,7 +160,8 @@
       <packageName>com.palominocia.JooqProject.modelo</packageName>
 
       <!-- The destination directory of your generated classes -->
-      <directory>target/generated-sources/jooq</directory>
+<!--       <directory>target/generated-sources/jooq</directory> -->
+      <directory>src/main/java</directory>
     </target>
   </generator>
 </configuration>
