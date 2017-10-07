@@ -1,3 +1,6 @@
 target
 *.exe
 *.db
+*.jar
+*.JAR
+*.EXE
